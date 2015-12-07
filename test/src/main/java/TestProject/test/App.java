@@ -1,4 +1,4 @@
-package src.main.java.TestProject.test;
+package TestProject.test;
 
 /**
  * Hello world!
